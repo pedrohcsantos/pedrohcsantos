@@ -14,6 +14,12 @@
 ### Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
+## Contatato:
+<a href="https://www.instagram.com/_sgpedro_" target="_blank">![pedrohcsantos's instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.facebook.com/santospedrohc" target="_blank">![pedrohcsantos's facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="pedrosantos.cardosoh@gmail.com" target="_blank">![pedrohcsantos's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
 <!--
 **pedrohcsantos/pedrohcsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
