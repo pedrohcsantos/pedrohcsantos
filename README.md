@@ -1,4 +1,18 @@
-## Hi there 👋
+## Olá, eu sou o Pedro! 👋
+<ul>
+  <li>
+    Oi, me chamo Pedro, sou técnico em geoprocessamento pelo IFRS - Campus Rio Grande, e graduando de Sistemas de Informação pela FURG. Sou apaixonado por técnologia desde muito novo, minha primeira experiencia com programação se deu no meu ensino médio técnico que, apesar de básica, fez eu me apaixonar pro programação e querer me especializar na área.
+  </li>
+  <li>
+    Atualmente, além de estar completando meu bacharelado, estou focado em me aprofundar nas Linguagens de Python, SQL e Javascript. Tenho um profundo interesse por análise de dados e desenvolvimento web.
+  </li>
+</ul>
+  
+![pedrohcsantos's Stats](https://github-readme-stats.vercel.app/api?username=pedrohcsantos&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![pedrohcsantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcsantos&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+### Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 <!--
 **pedrohcsantos/pedrohcsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
