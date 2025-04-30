@@ -1,10 +1,10 @@
 ## Olá, eu sou o Pedro! 👋
 <ul>
   <li>
-    Oi, me chamo Pedro, sou técnico em geoprocessamento pelo IFRS - Campus Rio Grande, e graduando de Sistemas de Informação pela FURG. Sou apaixonado por técnologia desde muito novo, minha primeira experiencia com programação se deu no meu ensino médio técnico que, apesar de básica, fez eu me apaixonar pro programação e querer me especializar na área.
+    Oi, me chamo Pedro, sou técnico em geoprocessamento pelo IFRS - Campus Rio Grande, e graduando de Sistemas de Informação pela FURG. Sou apaixonado por tecnologia desde muito novo, minha primeira experiência com programação se deu no meu ensino médio técnico que, apesar de básica, fez eu me apaixonar pro programação e querer me especializar na área.
   </li>
   <li>
-    Atualmente, além de estar completando meu bacharelado, estou focado em me aprofundar nas Linguagens de Python, SQL e Javascript. Tenho um profundo interesse por análise de dados e desenvolvimento web.
+    Atualmente, além de estar completando meu bacharelado, estou focado em me aprofundar nas Linguagens de Python e C. Tenho um profundo interesse por inteligência artificial e cyber segurança, dois assuntos que ando estudando a fundo ultimamente para poder me especializar em alguma das áreas.
   </li>
 </ul>
   
